@@ -1,8 +1,8 @@
 vivliostyle_publish_container
 =============================
 
-build and run
--------------
+build image and run container
+-----------------------------
 
 ```sh
 docker build -t mybook .
